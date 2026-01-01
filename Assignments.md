@@ -28,7 +28,7 @@ V: Verfied, NS: Not submitted
 | Prabhanshu |  |  |  |  |  |
 | Ranjan ojha |  |  |  |  |  |
 | Ritvija Katare |  |  |  |  |  |
-| Rudra Sharma |  |  |  |  |  |
+| Rudra Sharma | V |  |  |  |  |
 | Rounak Mandal |  |  |  |  |  |
 | Saloni kumari |  |  |  |  |  |
 | Shambhavi Singh |  |  |  |  |  |
